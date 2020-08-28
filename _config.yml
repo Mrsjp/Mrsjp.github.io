@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: pumbaa_timon@outlook.com
 description: "十年饮冰，难凉热血."
 keyword: "BY, BY Blog, 博客, iOS, Apple, iPhone"
-url: "https://xsdecade.github.com"          # your host, for absolute URL
+url: "https://xsdecade.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Mrsjp/xsdecade.github.io.git" # you code repository
 
